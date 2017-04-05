@@ -1,19 +1,16 @@
-        
 
+body
+{
+margin:20px;
+background:#2c2d32; /*background should be this color*/
+color:#777; /*text should be this color*/
+font-family: Monaco,Bitstream Vera Sans Mono,"Lucida Console",Terminal;
+}
+.wrapper {
+text-align: center;
+}
 
-
-          body
-            {
-        margin:20px;
-        background:#2c2d32; /*background should be this color*/
-        color:#777; /*text should be this color*/
-        font-family: Monaco,Bitstream Vera Sans Mono,"Lucida Console",Terminal;
-            }
-    .wrapper {
-        text-align: center;
-            }
-
-    .currentTime
-    {
-        margin-bottom: 150px;
-    }
+.currentTime
+{
+margin-bottom: 150px;
+}
